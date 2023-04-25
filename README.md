@@ -40,3 +40,14 @@ npm run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+
+## Usage
+
+Join as publisher
+```
+http://localhost:3000?offer_id=abc123
+```
+Join as viewer
+```
+http://localhost:3000?call_id=abc123
+```
